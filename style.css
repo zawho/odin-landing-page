@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+.header {
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-img
+{
+    width: 300px;
+    height: auto;
+}
