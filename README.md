@@ -1,1 +1,1 @@
-# odin-landing-page
+July 19, 2022 - This is the final project of the HTML/CSS component of The Odin Project's Foundations track. I will build a landing page based on a design they have provided by utilizing all of the HTML and CSS I have learned so far, with an emphasis on flexbox.
