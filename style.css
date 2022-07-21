@@ -15,11 +15,18 @@ li {
     margin: 0px 6px;
 }
 
+a {
+    text-decoration: none;
+    color: rgb(191, 126, 188);
+}
+
 button {
     font-weight: bold;
     padding: 8px;
     border-radius: 5px;
     border-style: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(191, 126, 188);
 }
 
 .header {
