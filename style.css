@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Comfortaa, Helvetica, sans-serif;
 }
 .header {
     background-color: lightgreen;
@@ -10,6 +11,15 @@ body {
 .header-top {
     display: flex;
     justify-content: space-around;
+}
+
+.hero-text-main {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.hero-text-second{
+    font-size: 24px;
 }
 
 .header-content {
