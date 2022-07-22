@@ -64,3 +64,12 @@ button {
     height: auto;
     border-radius: 20px;
 }
+
+.main-content-container {
+    display: flex;
+}
+
+.main-frog-img {
+    width: 200px;
+    height: 200px;
+}
