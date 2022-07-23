@@ -48,7 +48,6 @@ button {
 
 .hero-text-main {
     font-size: 48px;
-    font-weight: bold;
     width: 400px;
 }
 
@@ -67,7 +66,6 @@ button {
 
 .main-content-head {
     font-size: 30px;
-    font-weight: bold;
     text-align: center;
     padding: 70px 0px;
 }
@@ -95,5 +93,28 @@ button {
 .main-frog-text {
     text-align: center;
     width: 200px;
+}
+
+.quote-container {
+    background-color: rgb(191, 126, 188);
+    margin-top: 100px;
+    padding: 100px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    width: 680px;
+}
+
+.quote-credit {
+    font-size: 16px;
     font-weight: bold;
+    align-self: flex-end;
+    padding-right: 40px;
 }
