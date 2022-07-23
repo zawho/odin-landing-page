@@ -52,7 +52,7 @@ button {
     width: 400px;
 }
 
-.hero-text-second{
+.hero-text-second {
     font-size: 24px;
     width: 400px;
     margin: 24px 0px;
@@ -65,11 +65,35 @@ button {
     border-radius: 20px;
 }
 
+.main-content-head {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 70px 0px;
+}
+
 .main-content-container {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+}
+
+.frog-friends {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 }
 
 .main-frog-img {
     width: 200px;
     height: 200px;
+    border-radius: 20px;
+}
+
+.main-frog-text {
+    text-align: center;
+    width: 200px;
+    font-weight: bold;
 }
